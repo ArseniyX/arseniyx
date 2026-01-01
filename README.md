@@ -1,13 +1,18 @@
-# Hi there! 👋  
+# Hi there! 👋
 
-I'm a passionate **web developer** dedicated to revolutionizing the **e-commerce experience** with cutting-edge **AI technologies**. My work focuses on enhancing **customer satisfaction** through intuitive, personalized, and efficient solutions that support seamless **omnichannel strategies**.
-I'm also the **maintainer of [ShopNex](https://shopnex.ai)**, a powerful tool for building modern, scalable e-commerce platforms. 
+I’m a **software engineer** focused on building **developer-first tooling** that makes APIs more observable, reliable, and easier to work with.
 
-## What I Do  
-- **E-commerce Optimization:** Streamlining online shopping experiences by integrating innovative AI-driven tools.  
-- **Omnichannel Strategies:** Bridging the gap between online and offline retail for a unified customer experience.  
-- **Customer-Centric Solutions:** Leveraging data to create tailored journeys that delight and retain users.  
+I’m the creator of **WatchAPI** — a platform and VS Code–native tooling that helps teams **discover, monitor, and understand APIs directly from their code**, without relying on outdated specs or manual documentation.
 
-I believe technology should empower businesses to better serve their customers, and I'm constantly exploring new ways to make that happen.  
+My work centers on reducing friction in backend development by turning API structure, health, and behavior into something you can **see, track, and reason about** in real time.
 
-🚀 Let's build the future of e-commerce together!
+## What I Do
+
+- **API Observability:** Detect availability issues, latency spikes, and unexpected behavior before users notice.
+- **Code-Native API Discovery:** Extract REST and tRPC endpoints directly from Next.js and backend codebases.
+- **Developer Experience:** Eliminate context switching by bringing API insight into the editor and CI workflows.
+- **Monitoring That Scales:** Designed for modern stacks, distributed systems, and fast-moving teams.
+
+I believe APIs should be **transparent, predictable, and boring to operate**—and that the best monitoring tools stay out of the way while giving you confidence things are working.
+
+🚀 Let’s make APIs observable by default.
