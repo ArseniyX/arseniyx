@@ -1,18 +1,15 @@
-# Hi there! 👋
+## Hi, I'm Arseniy 👋
 
-I’m a **software engineer** focused on building **developer-first tooling** that makes APIs more observable, reliable, and easier to work with.
+  I build open-source tools for developers and online stores.
 
-I’m the creator of **WatchAPI** — a platform and VS Code–native tooling that helps teams **discover, monitor, and understand APIs directly from their code**, without relying on outdated specs or manual documentation.
+  ### 🛒 [ShopNex](https://github.com/shopnex-ai/shopnex)
+  Open-source ecommerce platform: self-hostable, with Liquid storefront themes.
 
-My work centers on reducing friction in backend development by turning API structure, health, and behavior into something you can **see, track, and reason about** in real time.
+  - ⭐ [Star the repo](https://github.com/shopnex-ai/shopnex) if it looks useful
+  - 🌱 [Good first issues](https://github.com/shopnex-ai/shopnex/labels/good%20first%20issue)
+  - 🗺️  [Roadmap](https://github.com/shopnex-ai/shopnex)
 
-## What I Do
+  <img src="https://raw.githubusercontent.com/shopnex-ai/shopnex-screenshots/main/170/home.png" width="600" alt="ShopNex storefront">
 
-- **API Observability:** Detect availability issues, latency spikes, and unexpected behavior before users notice.
-- **Code-Native API Discovery:** Extract REST and tRPC endpoints directly from Next.js and backend codebases.
-- **Developer Experience:** Eliminate context switching by bringing API insight into the editor and CI workflows.
-- **Monitoring That Scales:** Designed for modern stacks, distributed systems, and fast-moving teams.
-
-I believe APIs should be **transparent, predictable, and boring to operate**—and that the best monitoring tools stay out of the way while giving you confidence things are working.
-
-🚀 Let’s make APIs observable by default.
+  ### Elsewhere
+  [Website](https://arseniy.dev) · [X](https://x.com/ArseniyDev)
